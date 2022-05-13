@@ -1,29 +1,32 @@
-TourNest – Tours & Travel Agency HTML5 Template
+Travel and tourism website
 -------------------------------------------------
-TourNest is an extraordinary HTML5 responsive website template for Tours and Travel Agency. Our UX designers specially designed it for travel agencies, tourism bureaus and tour operators. It offers a lot of value to you with stunning design and a great & awesome layout. It’s really good looking with bright colors and user engaging with a great user interface.
-TourNest has a special search box function for tour plans, flight booking, and hotel sections. So users will get benefited from tour planning to hotel booking through flight selection.<br>
-<a href="https://www.themesine.com/downloads/tournest-tours-travel-agency-html5-template/" target="_blank">Preview Link</a>
+This project is about the website which is made for the purpose of Travelling persons to update the users
+# Azure services used in this project :
+1)usecases maker 2)Static webapps 3)Azure front-end application
 
-We would love to see how you use this amazing html5 template. You can notify us about your site by sending a mail to us. We will write a blog post to showcase the best examples.
+For creating usecases, I have used index. I integreted front end design with the nice ccs files and fonts. Then for hosting I have used Static Web App Service. Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository.
+# Azure Static Web Apps:
+Following are some key features of Azure Static Web Apps that made me choose this service:
+Following are some key features of Azure Static Web Apps that made me choose this service:
 
-Preview
---------
-![free travel agency responsive html template](https://cdn.dribbble.com/users/1914192/screenshots/4242909/tournest-travel-agency-responsive-html5-website-template-free-download-.jpg)
+1.Web hosting for static content like HTML, CSS, index, and images.
 
-Demo site
----------
-<a href="http://demo.themesine.com/" rel="nofollow" target="_blank">Demo</a> 
+2.Integrated API support provided by Azure Functions with the option to link an existing Azure Functions app using a standard account.
 
-Author
--------
-<a href="https://www.themesine.com" target="_blank">ThemeSINE</a>
+3.First-class GitHub and Azure DevOps integration where repository changes trigger builds and deployments.
 
-Other templates
----------------
-<a href="https://www.themesine.com/downloads/dashloon-bootstrap-admin-dashboard/" rel="nofollow" target="_blank">DashLoon admin template</a>
+4.Globally distributed static content, putting content closer to your users.
 
-License
---------
-Copyright (c) 2018 ThemeSINE
+5.Free SSL certificates, which are automatically renewed.
 
-TourNest is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that ThemeSINE is the original author of this template.
+6.Custom domains to provide branded customizations to your app.
+
+7.these are used a front-end application
+
+## Sample images of the project:-
+![Screenshot (108)](https://user-images.githubusercontent.com/96176668/168325328-930561c5-dcd8-413e-851b-1aee373c9ea2.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/96176668/168325422-a3a2eb6b-760d-4158-aa6f-1dfa7a35a8b9.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/96176668/168325565-94a1ba21-04b2-4fa8-9311-1bd0f11b39e8.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/96176668/168325580-d4e86a01-e4d5-4bb7-8ac6-22f1e9ffe6e0.png)
+![Screenshot (112)](https://user-images.githubusercontent.com/96176668/168325587-fd238a90-dc59-4075-83de-048621606ddf.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/96176668/168325591-a175a152-35ec-4b2a-b174-01b784e380e5.png)
